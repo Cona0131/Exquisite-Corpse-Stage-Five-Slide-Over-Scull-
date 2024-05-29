@@ -63,8 +63,10 @@ Next, I watched a video on making a sliding puzzle with the help and instruction
 I made an image on Raw Pixels and added it to the file to become my source file.  The plan was to create a board array where tiles could move around.  I needed to cut images into pieces and shuffle them randomly to deconstruct and then the interactive game is the player putting the image back together.  I used an index to keep track of the tiles, by splitting up with a number of rows and colums. When the shuffle was set for a low number, it did not mix the puzzle up enough.  I used the mouse pressed for the player to interact with the game.   It was difficult to understand the coding for keeping an empty spot for a piece to be able to move around the board.  The isNeighbor function allows movement beside the empty spot.  This seemed like a simple enough plan; however, there were many errors along the way.   After a very long journey, I was happy with my results.  *
 
 ### 🟪 Stage 5
-- Name/Alias:
-- Github account:
+- Name/Alias:Cona Cheng
+- Github account:https://github.com/Cona0131
 - Published webpage for stage 5:
 
-*... comments to be added here*
+This is a highly interactive artwork. Users can start the game directly or press a button to complete the game while listening to music. This game can't help but bring back a lot of memories. There was a game called Huarongdao in ancient China that was very similar to this one. It also moved the tiles to the appropriate position within a limited range to complete the picture or take out a special tile.
+
+Changes:I didn't make any major changes. I changed the text on the button to "shall we start a game?" I think this would be humorous. I also changed the background color to a gray similar to the pattern so that it wouldn't stand out too much. I also added a checkbox at the beginning of each line. When the user completes a line, they can choose to click the checkbox to make it easier for them to remember and take the next step.
